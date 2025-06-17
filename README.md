@@ -7,12 +7,6 @@
   <a href="https://github.com/A-CodX/A-CodX/releases"><img src="https://img.shields.io/github/release/A-CodX/A-CodX.svg"></a>
 </p>
 
-## 📹 Video Installation
-
-> Click the thumbnail below to see the video installation
-
-[![A-CodX Thumbnail](https://user-images.githubusercontent.com/64394320/170211137-554dfd78-8424-4699-876c-7483b45de068.png)](https://www.youtube.com/watch?v=sYkNxK_44Zg "A-CodX - Installation")
-
 ## ⚙️ Installation Dependencies
 
 > **Attention!**
@@ -41,13 +35,13 @@ pkg i -y git bc
 
   </details>
 
-## Installation myTermux
+## Installation CodX-Theme
 
   <details open>
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-git clone --depth=1 [https://github.com/A-CodX/CodX-Theme.git]
+git clone --depth=1 https://github.com/A-CodX/CodX-Theme.git
 ```
 
   </details>
@@ -168,18 +162,6 @@ export COLUMNS LINES
 - [NYANCAT]
 
   ![nyancat_out](https://user-images.githubusercontent.com/64394320/170211265-40e42967-1aee-40ad-9a39-11e9a45139ee.png)
-
-## Credits
-
-- [siduck](https://github.com/siduck) Neovim Setup (NvChad), Colorscheme (onedark-siduck)
-- [owl4ce](https://github.com/owl4ce) First time getting to know dotfiles
-- [adi1090x](https://github.com/adi1090x) Termux Setup
-- [bandithijo](https://github.com/bandithijo) Awesome screenshot like MacOS using imagemagick script
-- [lwotcynna](https://github.com/lwotcynna) Contibutor
-- [nekonako](https://github.com/nekonako) Colorscheme nekonako-djancoeg, nekonako-hue, nekonako-om-mar
-- [Dotfiles Indonesia](https://t.me/dotfiles_id)
-- [Vim Indonesia](https://t.me/VimID)
-- [Bashid.org](https://t.me/bashidorg)
 
 ## Colorscheme
 
