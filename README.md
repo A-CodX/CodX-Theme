@@ -52,7 +52,7 @@ git clone --depth=1 https://github.com/A-CodX/CodX-Theme.git
 - Move to Folder
 
 ```bash
-cd myTermux
+cd CodX-Theme
 ```
 
 - export variable `COLUMNS` and `LINES`
