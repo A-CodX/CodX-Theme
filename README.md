@@ -1,27 +1,27 @@
-<h1 align="center">myTermux</h1>
+<h1 align="center">A-CodX</h1>
 
 <p align="center">This is my personal configuration for my favorite Termux</p>
 
 <p align="center">
   <a href="./LICENSE"><img src="https://img.shields.io/badge/license-GPL-blue.svg"></a>
-  <a href="https://github.com/mayTermux/awesomeshot/releases"><img src="https://img.shields.io/github/release/mayTermux/myTermux.svg"></a>
+  <a href="https://github.com/A-CodX/A-CodX/releases"><img src="https://img.shields.io/github/release/A-CodX/A-CodX.svg"></a>
 </p>
 
-## Video Installation
+## 📹 Video Installation
 
-> Click this thumbnail below to see video installation
+> Click the thumbnail below to see the video installation
 
-[![myTermux Thumbnail](https://user-images.githubusercontent.com/64394320/170211137-554dfd78-8424-4699-876c-7483b45de068.png)](https://www.youtube.com/watch?v=sYkNxK_44Zg "myTermux - Installation")
+[![A-CodX Thumbnail](https://user-images.githubusercontent.com/64394320/170211137-554dfd78-8424-4699-876c-7483b45de068.png)](https://www.youtube.com/watch?v=sYkNxK_44Zg "A-CodX - Installation")
 
-## Installation Dependecies
+## ⚙️ Installation Dependencies
 
 > **Attention!**
 >
-> - [Termux must be **F-Droid** Version](https://f-droid.org/en/packages/com.termux/) because Termux from Playstore no longer maintained because there are some problems with the Playstore publishing
-> - [Termux:API must be installed](https://f-droid.org/en/packages/com.termux.api/) myTermux use API command from Termux:API like fetch `termux-battery-status`
+> - Use [Termux from F-Droid](https://f-droid.org/en/packages/com.termux/) (not from Play Store).
+> - Install [Termux:API](https://f-droid.org/en/packages/com.termux.api/) — this config uses commands like `termux-battery-status`.
 
-  <details open>
-  <summary><strong>Update Repository & Upgrade Package</strong></summary>
+<details open>
+<summary><strong>Update Repository & Upgrade Package</strong></summary>
 
 ```bash
 pkg update && pkg upgrade
