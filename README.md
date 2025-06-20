@@ -79,7 +79,7 @@ export COLUMNS LINES
 > If the row and column widths of the application are correct,
 > the script will automatically run, like this:
 
-![banner_out](https://user-images.githubusercontent.com/64394320/170211059-9d740d4f-b657-4da5-a319-a3e09af0be3b.png)
+![banner_out](images/1750414144589.jpg)
 
 > Then follow the installation until it's finished
 
